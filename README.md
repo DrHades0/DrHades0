@@ -7,5 +7,5 @@
 </div>
 <h2>Redes sociales </h2>
 <ul>
-  <li>Pagina de youtube:https://www.youtube.com/channel/UCeCrq_GMeV5lImgV36ETV5Q</li>
+  <li>Pagina de youtube: (https://www.youtube.com/channel/UCeCrq_GMeV5lImgV36ETV5Q)</li>
 </ul>
